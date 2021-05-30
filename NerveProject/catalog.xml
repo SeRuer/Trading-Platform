@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/TMuja/Documents/NetBeansProjects/NerveProject/../sharesSchema/src/java/schemaPack/stocks.xsd" uri="src/conf/xml-resources/jaxb/requests/stocks.xsd"/>
+    <system systemId="file:/C:/Users/TMuja/Documents/NetBeansProjects/NerveProject/src/java/stocks.xsd" uri="src/conf/xml-resources/jaxb/requests/stocks.xsd"/>
+</catalog>
